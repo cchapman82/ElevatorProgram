@@ -1,0 +1,23 @@
+[
+	{
+		"person": {
+			"name": "Person1",
+			"origin": "1",
+			"destination": "20"
+		}
+	},
+	{
+		"person": {
+			"name": "Person2",
+			"origin": "20",
+			"destination": "5"
+		}
+	},
+	{
+		"person" : {
+			"name" : "Person3",
+			"origin" : "15",
+			"destination" : "19"
+		}
+	}
+]
